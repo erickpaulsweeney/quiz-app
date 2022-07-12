@@ -1,7 +1,7 @@
 function Question(props) {
     return (
         <div className="header-question">
-            {props.text}
+            {`Q${props.idx}: ${props.text}`}
         </div>
     )
 }

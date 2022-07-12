@@ -24,7 +24,7 @@ let list = [
         options: [
             { text: `Books`, isCorrect: true },
             { text: `Forests`, isCorrect: false },
-            { text: `Women`, isCorrect: false },
+            { text: `Warriors`, isCorrect: false },
             { text: `Boxes`, isCorrect: false },
         ]
     },
